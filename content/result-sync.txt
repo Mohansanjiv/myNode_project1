@@ -1,0 +1,3 @@
+Here is the result: hello i am from first txt file , hello i am from second txt filehere is the result :hello i am from first txt file,
+          hello i am from second txt filehere is the result :hello i am from first txt file,
+          hello i am from second txt file
